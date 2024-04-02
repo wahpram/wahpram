@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @WahyuPramana</h1>
+<h1 align="center">👋 Hi, I’m wahpram</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahpram&show_icons=true&locale=en&layout=compact" alt="wahpram" /></p>
 
