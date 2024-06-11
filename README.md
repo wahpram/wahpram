@@ -1,8 +1,11 @@
-<h1 align="center">👋 Hi, I’m wahpram</h1>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wahpram&show_icons=true&locale=en&layout=compact" alt="wahpram" /></p>
-
-<!---
-wahpram/wahpram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+name: Featured star list languages
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.starlists.languages.svg
+  token: NOT_NEEDED
+  base: ""
+  plugin_starlists: yes
+  plugin_starlists_languages: yes
+  plugin_starlists_limit_languages: 8
+  plugin_starlists_limit_repositories: 0
+  plugin_starlists_only: Awesome
